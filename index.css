@@ -11,3 +11,18 @@
 ul {
   list-style: none;
 }
+
+.avatar-img {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px; /* Add margin to the right of the avatar */
+}
+
+.username {
+  margin-right: 10px; /* Add margin to the right of the username */
+}
+
+.profile-link {
+  margin-right: 10px; /* Add margin to the right of the profile link */
+}
+
